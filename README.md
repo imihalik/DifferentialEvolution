@@ -1,6 +1,7 @@
 ## Overview
 
-The implementation of the Differential Evolution (DE) method from SciPy has been adapted into a Qiskit Optimizer class. This adaptation enables the utilization of classical optimization algorithm within Qiskit's quantum computing framework.
+The implementation of the Differential Evolution (DE) method from SciPy has been adapted into a Qiskit Optimizer class: https://qiskit-community.github.io/qiskit-algorithms/apidocs/qiskit_algorithms.optimizers.html 
+This adaptation enables the utilization of classical optimization algorithm within Qiskit's quantum computing framework.
 
 ### Parameters
 
